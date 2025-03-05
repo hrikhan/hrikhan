@@ -23,17 +23,16 @@ If you're interested in working together, feel free to reach out.
 
 ##  How to Reach Me
 -  Phone: [01779799197](tel:01779799197)
--  Email: [hrikhan.dev@gmail.com](mailto:hrikhan.dev@gmail.com)
+-  Email: [hridoykhan.cse.cu@gmail.com](mailto:hridoykhan.cse.cu@gmail.com)
 -  GitHub: [@hrikhan](https://github.com/hrikhan)
 
 ##  Tools and Technologies
-- **Programming Languages**: Dart, Python, SQL
+- **Programming Languages**: Dart, Python
 - **Frameworks**: Flutter
 - **Version Control**: Git and GitHub
 - **Database**: SQLite, Firebase
 
 ##  Goals
-- Build and publish my first app on the Google Play Store.
 - Contribute to open-source Flutter projects.
 - Secure a role in mobile app development to create impactful apps.
 
