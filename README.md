@@ -27,7 +27,7 @@ If you're interested in working together, feel free to reach out.
 -  GitHub: [@hrikhan](https://github.com/hrikhan)
 
 ##  Tools and Technologies
-- **Programming Languages**: Dart, Python
+- **Programming Languages**: Dart, Python ,java
 - **Frameworks**: Flutter
 - **Version Control**: Git and GitHub
 - **Database**: SQLite, Firebase
