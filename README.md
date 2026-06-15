@@ -166,13 +166,13 @@ Flutter • Firebase • WebRTC
 <!-- Streak -->
 <img 
   width="49%" 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=hridoykhan51&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=hrikhan&theme=tokyonight&hide_border=true" 
 />
 
 <!-- Main Stats -->
 <img 
   width="49%" 
-  src="https://github-readme-stats-sigma-five.vercel.app/api?username=hridoykhan51&show_icons=true&theme=tokyonight&hide_border=true" 
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=hrikhan&show_icons=true&theme=tokyonight&hide_border=true" 
 />
 
 <br/>
